@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile
 
-<img src=[Profile image](assets/profile.jpg)>
+<img src=(assets/profile.jpg)> 
 
 ## 👨‍💻 Hello! I'm Abdelrahman Albilleh
 I'm a front-end developer passionate about web development technologies.  
