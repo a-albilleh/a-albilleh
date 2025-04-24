@@ -1,16 +1,24 @@
-## Hi there 👋
+# Welcome to My GitHub Profile
 
-<!--
-**a-albilleh/a-albilleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="assets/profile.jpg" alt="Profile image" width="150" style="border-radius: 50%;" />
 
-Here are some ideas to get you started:
+## Hello! I'm Abdelrahman Albilleh
+I'm a front-end developer passionate about web development technologies. Currently, I'm working on a project using **Flutter** and **Laravel**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills:
+- Building responsive web interfaces using **HTML**, **CSS**, and **JavaScript**.
+- Web development.
+- Working with **SQL** databases.
+- API integration and usage.
+- Version control using **Git** and **GitHub**.
+
+## Projects:
+- [Earthquake and Flood Alert System](https://github.com/AbdelrahmanAlbilleh/earthquake-alert)
+
+## Resume:
+- [Download Resume (PDF)](assets/resume.pdf)
+
+## Contact Me:
+- [LinkedIn](https://www.linkedin.com/in/abdelrahman-albilleh)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanAlbilleh&show_icons=true)
